@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentsAPI", "PaymentsAPI\PaymentsAPI.csproj", "{478084C2-AA30-4E45-B52B-87EFE78902E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentsAPI.Tests", "PaymentsAPI.Tests\PaymentsAPI.Tests.csproj", "{596B2456-4FF6-4C0E-A3DD-49C229251C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478084C2-AA30-4E45-B52B-87EFE78902E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478084C2-AA30-4E45-B52B-87EFE78902E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478084C2-AA30-4E45-B52B-87EFE78902E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478084C2-AA30-4E45-B52B-87EFE78902E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596B2456-4FF6-4C0E-A3DD-49C229251C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596B2456-4FF6-4C0E-A3DD-49C229251C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596B2456-4FF6-4C0E-A3DD-49C229251C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596B2456-4FF6-4C0E-A3DD-49C229251C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E8019E-7DB9-40F4-88EB-9FF649BD36C5}
+	EndGlobalSection
+EndGlobal
